@@ -21,7 +21,7 @@ go get github.com/icehtwoo/gogiphy@vx.y.z
 Import the package into your project.
 
 ```go
-import "github.com/ice-h2o/gogiphy"
+import "github.com/icehtwoo/gogiphy"
 ```
 
 Create a giphy client to access the api. The key can be generated [here](https://developers.giphy.com/):
