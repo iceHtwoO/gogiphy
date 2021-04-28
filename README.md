@@ -1,7 +1,6 @@
 # GoGiphy
-[![Build Status](https://travis-ci.org/ICE-H2O/gogiphy.svg?branch=main)](https://travis-ci.org/ICE-H2O/gogiphy)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/ICE-H2O/gogiphy/blob/main/LICENSE)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://pkg.go.dev/github.com/ice-h2o/gogiphy)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/icehtwoo/gogiphy/blob/main/LICENSE)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://pkg.go.dev/github.com/icehtwoo/gogiphy)
 
 GoGiphy is a golang implementation of the giphy api.
 ### Installing
